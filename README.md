@@ -20,6 +20,14 @@ backend Port = 4000
 
 ```bash
   node index.js
+
+```
+
+To install all dependencies
+
+```bash
+  npm install
+
 ```
 
 database URL = "mongodb://localhost:27017/blog"
